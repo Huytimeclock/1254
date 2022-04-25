@@ -18,6 +18,11 @@ You need
 - FormGuild -> ctrl H -> replace "Huytimeclock" with your SQL server name
 - FormScore -> ctrl H -> replace "Huytimeclock" with your SQL server name
 ![Fix the SQL path](https://i.imgur.com/KZcLBKp.png)
-3. To have all the sound pack, just put 1254note.txt, 1254DB Sound, 1254SongPack to the root of the folder where u extracted rar ( example if u extract at the Disk E, u must put all of that to E:// )
-4. Go :\1254-3-5\1254-1-3\Appdemo1\Appdemo1\setup\1254 click setup.exe to install
+3. Go :\1254-3-5\1254-1-3\Appdemo1\Appdemo1\setup\1254 click setup.exe to install
+4. To have all the sound pack, just put 1254note.txt, 1254DB Sound, 1254SongPack to the root of the folder where u setup ( default if u just click and click is C:/ I recommend you to build setup in another Disk like E: D:,... )
 5. after install u will have the app to use
+
+
+
+
+II/ HOW TO USE
