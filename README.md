@@ -18,7 +18,7 @@ You need
 - FormGuild -> ctrl H -> replace "Huytimeclock" with your SQL server name
 - FormScore -> ctrl H -> replace "Huytimeclock" with your SQL server name
 ![Fix the SQL path](https://i.imgur.com/KZcLBKp.png)
-3. Click on Setup and Rebuild to rebuild the setup file, if u dont see it, sadge, you can try to follow this instruction https://www.youtube.com/watch?v=tiHBwAp_Kz4&t=601s or simply skil this step and step 4 and click run the project
+3. Click on Setup and Rebuild to rebuild the setup file, if u dont see it, sadge, you can try to follow this instruction https://www.youtube.com/watch?v=tiHBwAp_Kz4&t=601s or simply skip this step and step 4 and click run the project
 ![Rebuild Setup](https://i.imgur.com/wpG6UEV.png)
 4. Go :\1254-3-5\1254-1-3\Appdemo1\Appdemo1\setup\1254 click setup.exe to install
 5. To have all the sound pack, just put 1254note.txt, 1254DB Sound, 1254SongPack to the root of the folder where u setup ( default if u just click and click is C:/ I recommend you to build setup in another Disk like E: D:,... )
